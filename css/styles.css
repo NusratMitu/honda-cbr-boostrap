@@ -13,3 +13,6 @@
 .honda-btn-border-color {
   border: 2px solid #e76f51;
 }
+.hover-effect:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
