@@ -7,3 +7,16 @@
 .honda-btn-bg {
   background-color: #e76f51;
 }
+.honda-primary-color {
+  color: #e76f51;
+}
+.honda-btn-border-color {
+  border: 2px solid #e76f51;
+}
+/* feature bike grayscale  */
+#left {
+  filter: grayscale(100%);
+}
+#right {
+  filter: grayscale(100%);
+}
